@@ -40,7 +40,7 @@ export default function Page() {
       width={560}
       height={620}
       className='md:hidden block'
-      alt=''
+      alt='hero mobile image'
       />
         </div>
       </div>
